@@ -1,0 +1,7 @@
+Factory method design pattern is a creational design pattern that provides an interface for creating objects in a superclass,
+but allows subclasses to alter the type of objects that will be created.
+
+Factory method design pattern is used when we have multiple subclasses of a superclass and based on the input, we want to return
+the object of one of the subclasses.
+
+Factory method design pattern is also known as Virtual Constructor.
